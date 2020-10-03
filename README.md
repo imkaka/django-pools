@@ -1,4 +1,5 @@
 # Django Polls Project
+[![DeepSource](https://deepsource.io/gh/imkaka/django-pools.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/imkaka/django-pools/?ref=repository-badge)
 
 Polls is a simple Django app to conduct Web-based polls. For each
 question, visitors can choose between a fixed number of answers.
