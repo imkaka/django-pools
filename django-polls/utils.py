@@ -7,5 +7,5 @@ class Dummy:
     def bar(cls):
         pass
         
-print(Dummy.foo is Dummy.foo)
-print(Dummy.bar is Dummy.bar)        
+print(Dummy.foo == Dummy.foo)
+print(Dummy.bar == Dummy.bar)        
